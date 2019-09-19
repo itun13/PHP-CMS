@@ -1,0 +1,64 @@
+.navbar-brand{
+	    margin-right: 450px;
+}
+.logo-section{
+	font-family: 'Cute Font', cursive;
+	font-size: 55px;
+}
+.field_info{
+	color: #313131;
+	font-family: Bitter,Georgia,"Times New Roman",Times,serif;
+	font-size: 1.2em;
+}
+
+.navbar-nav a{
+	font-weight: bold;
+	font-family: Bitter,Georgia,Times,"Times New Roman",serif;
+	font-size:1.2em;
+
+}
+.btn-info{
+	float: right;
+}
+.col-sm-8{
+	/*background-color:#c5c1c0;*/
+}
+.col-sm-3{
+	background-color: #b6a092;
+}
+.navbar-nav .active a{
+	background-color: #c5c1c0;
+}
+#footer{
+	padding: 10px;
+	border-top: 1px solid #1a2930;
+	color: #f4f8f9;
+	background-color: #b6a092;
+	text-align: center;	
+}
+.blogpost{
+	
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:10px;
+	overflow: hidden;
+}
+#heading{
+	font-family: Bitter,Georgia,"Times New Roman",serif;
+	font-weight: bold;
+	color: #0a1612;
+}
+#heading:hover{
+	color: #1a2930;
+}
+.description{
+	color:	#000000 ;
+
+	margin-top: -2px;
+}
+.post{
+	font-size: 1.1em;
+	font-family: 'Source Sans Pro', sans-serif;	
+	text-align: justify;
+}
+
